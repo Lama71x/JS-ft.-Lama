@@ -1,0 +1,13 @@
+const accountId = 123456
+const accountName = "Saroj Lama"
+let accountEmail = "Saroj@gmail.com"
+var accountPassword = "123450"
+accountCity = "Kathmandu"
+
+//change is made below:
+
+accountPassword = "11111"
+accountcity = "Kathmandu"
+
+console.log(accountId, accountName);
+console.table([accountEmail, accountPassword, accountCity]);
