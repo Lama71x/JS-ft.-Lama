@@ -19,6 +19,32 @@
 // console.log(c);  this will print so not to use var this may cause problem
 
 
+// **************************Part 2**********************
+
+// function one(){
+//     const username = "Saroj"
+
+//     function two(){
+//         const website = "Youtube"
+//         console.log(username);
+//     }
+//     two()
+// }
+
+// one()
 
 
+// if(true){
+//     const username = "Saroj"
+//     if (username === "Saroj") {
+//         console.log(username)
+//     }
+// }
 
+// *****************Interesting************************
+
+// function addTwo(num){
+//     return num +1
+// }
+
+// addTwo(5)
