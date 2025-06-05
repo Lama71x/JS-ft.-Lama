@@ -23,5 +23,4 @@ for (let i = 0; i < 10; i++) {
     
     // console.log(`here is ${i} and this is ${j}`);
     
-
 }
